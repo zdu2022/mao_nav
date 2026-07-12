@@ -4,7 +4,7 @@ export const mockData = {
       "id": "my-favorites",
       "name": "我的常用",
       "icon": "💥",
-      "order": 0,
+      "order": 88,
       "sites": [
         {
           "id": "site-1778929068955",
@@ -54,7 +54,7 @@ export const mockData = {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 1,
+      "order": 89,
       "sites": [
         {
           "id": "chatgpt",
@@ -97,7 +97,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 2,
+      "order": 90,
       "sites": [
         {
           "id": "cloudflare",
@@ -154,7 +154,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 91,
       "sites": [
         {
           "id": "github",
@@ -211,7 +211,7 @@ export const mockData = {
       "id": "category-1774510899116",
       "icon": "☠️",
       "name": "DDDD",
-      "order": 4,
+      "order": 92,
       "sites": [
         {
           "id": "site-1774510993770",
@@ -233,7 +233,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 5,
+      "order": 93,
       "sites": [
         {
           "id": "linuxdo",
@@ -276,7 +276,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 6,
+      "order": 94,
       "sites": [
         {
           "id": "figma",
@@ -312,7 +312,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 7,
+      "order": 95,
       "sites": [
         {
           "id": "binance",
@@ -376,7 +376,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 8,
+      "order": 96,
       "sites": [
         {
           "id": "mdn",
@@ -412,7 +412,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 9,
+      "order": 97,
       "sites": [
         {
           "id": "json-formatter",
@@ -448,7 +448,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 10,
+      "order": 98,
       "sites": [
         {
           "id": "bilibili",
@@ -484,7 +484,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 11,
+      "order": 99,
       "sites": [
         {
           "id": "notion",
@@ -515,6 +515,13 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1783841376673",
+      "icon": "💻",
+      "name": "交通管理",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "猫猫导航🐱",
